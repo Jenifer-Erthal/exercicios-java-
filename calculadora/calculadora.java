@@ -15,7 +15,6 @@ public class Calculadora {
     public static double multiplicacao(double a, double b) {
         return a * b;
     }
-
     // Função divisão (sem retorno)
     public static void divisao(double a, double b) {
         if (b == 0) {
